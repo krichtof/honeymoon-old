@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HoneyMoon à San Francisco</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>http://tempslibre.robillard.pro/honeymoon/</link>
+    <atom:link href="http://tempslibre.robillard.pro/honeymoon/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Fri, 15 May 2015 21:34:24 +0200</pubDate>
+    <lastBuildDate>Fri, 15 May 2015 21:34:24 +0200</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Premier contact</title>
+        <description>&lt;p&gt;Arrivée à San Francisco à l’heure prévue. Avant de récupérer nos valises, passage obligé à la douane où nous laissons nos empreintes et sommes photographiés par l’Oncle Sam … Un taxi nous dépose ensuite chez Marché, notre hôte AirBnb qui réside dans le quartier de Bay View.&lt;/p&gt;
+
+&lt;p&gt;On teste ensuite la T-Line qui nous amène jusqu’à l’Embarcadero. Nous remarquons que Firefox a ses bureaux dans les parages. Enfin, nous ne remarquons pas grand chose car le jetlag se fait de plus en plus sentir …&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 May 2015 10:42:50 +0200</pubDate>
+        <link>http://tempslibre.robillard.pro/honeymoon/2015/05/07/premier-contact.html</link>
+        <guid isPermaLink="true">http://tempslibre.robillard.pro/honeymoon/2015/05/07/premier-contact.html</guid>
+        
+        <category>jetlag</category>
+        
+        <category>firefox</category>
+        
+        <category>san francisco</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>Cap vers San Francisco !</title>
+        <description>&lt;p&gt;Nous devions être à 5h20 à l’aéroport Roissy-Charles de Gaulle. Malins, nous avions prévu de dormir chez des amis à l’Ile-Saint-Denis la veille, pour y aller ensuite en transport en commun. Arrivés vers 1h30 du matin à l’Ile-Saint-Denis (piano Kismar oblige…), nous nous aperçevons qu’il n’y a pas de train qui part suffisamment tôt pour nous garantir d’être à 5h20 à l’aéroport … &lt;/p&gt;
+
+&lt;p&gt;On décide alors à 2h du matin d’aller chez la soeur de Christophe, le beau-frère travaillant à l’aéroport et partant vers 4h du matin. Une fois n’est pas coutume, Micael (le beau-frère) oublie de se réveiller malgré les quelque coups de fil et sms sur son portable. Au bout de 20mn d’attente dans le froid et la nuit noire, on décide de faire sonner le téléphone fixe. Micael se réveille. Bonne nouvelle ! A nous l’aéroport Charles de Gaulle et les 123h de vol pour rejoindre San Francisco (avec escale à Amsterdam) !&lt;/p&gt;
+</description>
+        <pubDate>Thu, 07 May 2015 00:00:00 +0200</pubDate>
+        <link>http://tempslibre.robillard.pro/honeymoon/2015/05/07/cap-vers-san-francisco.html</link>
+        <guid isPermaLink="true">http://tempslibre.robillard.pro/honeymoon/2015/05/07/cap-vers-san-francisco.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
